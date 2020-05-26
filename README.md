@@ -15,7 +15,9 @@ To keep tings simple, it has a singlelayer design, which can be easily etched at
 * Parts are ordered from Reichelt, a BOM is included in files. 
 
 # Disclaimer 
-This project was designed for sophisticated build. Especially the installation the transformer requires educated building of line powered electronics. To keep things safe, I recommend extra fusing the transformer against overheating and overcurrent on the primary side. Building and operating is done on own risk! 
+This project was designed for experienced build. Especially the installation the transformer requires educated building of line powered electronics. To keep things safe, I recommend extra fusing the transformer against overheating and overcurrent on the primary side. Building and operating is done on your own risk! 
+
+Please check the supply under load (take i.E. 10W 12V Lightbulbs from cars etc. one from gnd to +12V and one from gnd to -12V)  first before connecting any Eurorack modules to it. 
 
 # Else 
 License GPL v.3
