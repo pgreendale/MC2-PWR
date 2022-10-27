@@ -1,4 +1,4 @@
-# MC2-PWR compact Eurorack 
+# MC2-PWR compact Eurorack Power Supply
 85TE Modular Case - Powersupply
 
 # Introduction 
